@@ -1,16 +1,32 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Sebastián
 
-<!--
-**TuX-x/TuX-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi perfil de GitHub. Soy estudiante de informática en UTU y apasionado por el desarrollo de software, la productividad y el autodesarrollo. Aquí comparto mis proyectos, aprendizajes y retos tecnológicos.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+- 🌍 Vivo en Montevideo, Uruguay
+- 🧑‍💻 Estudiante de informática
+- 💻 Apasionado por desarrollo web y aplicaciones
+- 📚 Me gusta aprender nuevas tecnologías y compartir conocimiento
+
+---
+
+## 📫 Contáctame
+
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:sebaviglioneliceo@gmail.com)](mailto:sebaviglione10@gmail.com)
+
+---
+
+## 📈 Mi actividad reciente
+
+![Sebastián's GitHub stats](https://github-readme-stats.vercel.app/api?username=tux-x&show_icons=true&theme=radical)
+
+---
+
+¡Gracias por visitar mi perfil! 🚀
+
+---
+
+*Si quieres saber más sobre mis proyectos, echa un vistazo a mis repositorios 👇*
