@@ -1,3 +1,5 @@
+![Banner](assets/banner.png)
+
 # ¡Hola! 👋 Soy Sebastián
 
 Bienvenido a mi perfil de GitHub. Soy estudiante de informática en UTU y apasionado por el desarrollo de software, la productividad y el autodesarrollo. Aquí comparto mis proyectos, aprendizajes y retos tecnológicos.
