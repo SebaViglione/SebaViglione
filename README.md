@@ -1,18 +1,19 @@
-![Banner](./Blue%20Gradient%20Modern%20LinkedIn%20Banner%20(5).png)
+![Banner](./banner.png)
 
 # 👋 ¡Hola! Soy Sebastián Viglione
 
-🎓 Estudiante de informática en **UTU (Instituto Superior Brazo Oriental)**  
-💻 Apasionado por el **desarrollo web full-stack**, la **productividad** y el **aprendizaje continuo**  
+💻 **Junior Web Developer** en formación  
+🌱 Estudiante de Informática en UTU (Instituto Superior Brazo Oriental)  
+🚀 Apasionado por el desarrollo **web full-stack** y el aprendizaje continuo  
 
 ---
 
 ## 🚀 Sobre mí
 
 - 🌍 Vivo en Montevideo, Uruguay  
-- 🧑‍💻 Actualmente: Consultor comercial en el sector construcción  
-- 🌱 En formación como **Junior Web Developer** (HTML, CSS, JavaScript, PHP, MySQL)  
-- 📚 Aprendiendo y compartiendo proyectos en GitHub  
+- 🧑‍💻 Experiencia creando proyectos académicos y personales con **HTML, CSS, JavaScript, PHP, MySQL y Git**  
+- 📚 Actualmente ampliando conocimientos en **desarrollo full-stack** y buenas prácticas  
+- 🎯 Objetivo: crecer como **Software Developer** y construir proyectos con impacto real  
 
 ---
 
@@ -31,4 +32,4 @@
 ---
 
 ✨ Gracias por visitar mi perfil ✨  
-👉 ¡Mirá mis repositorios para conocer mis proyectos!
+👉 ¡Explora mis repositorios para conocer mis proyectos!
