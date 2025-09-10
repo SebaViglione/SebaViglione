@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner]("Blue Gradient Modern LinkedIn Banner (5).png")
 
 # ¡Hola! 👋 Soy Sebastián
 
