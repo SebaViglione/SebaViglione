@@ -1,4 +1,4 @@
-![Banner](./banner.png)
+![Banner](./Blue%20Gradient%20Modern%20LinkedIn%20Banner%20(5).png)
 
 # 👋 ¡Hola! Soy Sebastián Viglione
 
