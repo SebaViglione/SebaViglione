@@ -28,7 +28,6 @@
 ## 📊 Actividad en GitHub
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=SebaViglione&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebaViglione&layout=compact&theme=radical)  
 ![Streak](https://streak-stats.demolab.com?user=SebaViglione&theme=radical&hide_border=true)
 
 ---
@@ -44,12 +43,6 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:sebaviglione10@gmail.com)](mailto:sebaviglione10@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/sebaviglione)](https://linkedin.com/in/sebaviglione)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/SebaViglione)](https://github.com/SebaViglione)
-
----
-
-## 📊 Mi actividad en GitHub
-
-![Sebastián's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebaViglione&show_icons=true&theme=radical)
 
 ---
 
