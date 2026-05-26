@@ -1,6 +1,4 @@
 <!-- Banner principal -->
-![Banner](Assets/Blue%20Gradient%20Modern%20LinkedIn%20Banner%20(10).png)
-
 <p align="center">
   <img 
     src="Assets/Saludo_español.gif" 
