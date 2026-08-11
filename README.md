@@ -1,102 +1,123 @@
 <!-- Banner principal -->
 <p align="center">
-  <img 
-    src="Assets/Saludo_español.gif" 
-    alt="¡Hola! Soy Sebastián Viglione"
-    style="
-      border-radius: 14px;
-      border: 1px solid rgba(255,255,255,0.13);
-      box-shadow: 0 4px 18px rgba(0,0,0,0.45);
-    "
-  />
+  <img src="Assets/saludo_es.gif" width="800" alt="¡Hola! Soy Sebastián Viglione — Developer & Systems Technician @ Grupo CPS"/>
 </p>
 
 <p align="center">
-💻 <b>Desarrollador Full-Stack en formación | Automatización, IA local y procesamiento de datos</b><br>
-🌱 Estudiante de Informática en <b>UTU (Instituto Superior Brazo Oriental)</b><br>
-🚀 Apasionado por crear soluciones que integran <b>web, automatización y análisis inteligente de datos</b>.
+  <a href="#-english-version">🇬🇧 English version below</a>
+  &nbsp;·&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=SebaViglione&style=flat-square&color=22d3ee&label=visitas" alt="Contador de visitas"/>
+</p>
+
+<p align="center">
+💻 <b>Developer & Systems Technician en <a href="https://grupocps.com.uy">Grupo CPS</a> | Automatización · IA local · Datos · Web</b><br>
+🎓 Estudiante de <b>Ingeniería en Sistemas</b> en la <b>Universidad de Montevideo</b><br>
+🚀 <i>«Hago software que ordena tu operación»</i> → <a href="https://sebaviglione.com">sebaviglione.com</a>
 </p>
 
 ---
 
 <h2 align="center">🚀 Sobre mí</h2>
 
-<p align="center" style="max-width:750px; margin:auto; text-align:justify;">
-Soy un estudiante uruguayo de informática con un fuerte interés en el desarrollo full-stack y la automatización de procesos. 
-Me gusta combinar la lógica de la programación con la creatividad del diseño, y aplicar la tecnología para resolver problemas reales.  
-Actualmente estoy profundizando en el uso de <b>Docker, n8n, Ollama y PostgreSQL</b> para la integración de flujos de datos y sistemas IA locales.
+<p align="center">
+Soy un desarrollador uruguayo que aprende construyendo. Desde fines de 2024 trabajo en <b>Grupo CPS</b>, donde desarrollo herramientas internas, automatizaciones y sitios web que resuelven problemas reales de la operación: scraping y procesamiento de datos, integración de APIs REST y webhooks, y flujos de negocio conectados con <b>Python, JavaScript/TypeScript y n8n</b>.
+</p>
+
+<p align="center">
+Mi zona favorita es donde se cruzan la <b>automatización</b> (n8n, Python), la <b>IA local</b> (Ollama, modelos ejecutados en mi propia infraestructura) y los <b>datos</b> (PostgreSQL, ETL, web scraping). En paralelo estudio Ingeniería en Sistemas y desarrollo proyectos freelance para clientes en Uruguay. Inglés avanzado C1 (Cambridge CAE).
 </p>
 
 ---
 
 <h2 align="center">🛠️ Tecnologías y Herramientas</h2>
 
-<div align="center" style="
-  background: rgba(15,15,15,0.6);
-  border: 1px solid rgba(255,255,255,0.15);
-  border-radius: 20px;
-  backdrop-filter: blur(6px);
-  padding: 25px 35px;
-  box-shadow: 0 0 12px rgba(0,0,0,0.3);
-">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5" style="margin: 12px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3" style="margin: 12px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" style="margin: 12px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="PostgreSQL" style="margin: 12px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="Docker" style="margin: 12px;"/>
-  <img src="./Assets/n8n_icon.png" height="60" alt="n8n" style="margin: 12px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git" style="margin: 12px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="Linux" style="margin: 12px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="VS Code" style="margin: 12px;"/>
-
-</div>
-
----
-
-<h2 align="center">📊 Actividad en GitHub</h2>
-
+<h3 align="center">🎨 Frontend</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SebaViglione&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,threejs,html,css" height="48" alt="JavaScript, TypeScript, React, Next.js, Tailwind CSS, Three.js, HTML, CSS"/>
+</p>
+
+<h3 align="center">⚙️ Backend e Integraciones</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,py,express" height="48" alt="Node.js, Python, Express"/>
+</p>
+
+<h3 align="center">🗄️ Bases de Datos</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,supabase" height="48" alt="PostgreSQL, Supabase"/>
+</p>
+
+<h3 align="center">🤖 Automatización e IA</h3>
+<p align="center">
+  <img src="Assets/icons/n8n.png" height="48" alt="n8n"/>&nbsp;&nbsp;<img src="Assets/icons/ollama.png" height="48" alt="Ollama"/>&nbsp;&nbsp;<img src="Assets/icons/openai.png" height="48" alt="OpenAI API"/>
+</p>
+
+<h3 align="center">🧰 Infraestructura y Herramientas</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,linux,bash,git,github" height="48" alt="Docker, Linux, Bash, Git, GitHub"/>
 </p>
 
 ---
 
 <h2 align="center">🌟 Proyectos Destacados</h2>
 
-### 🤖 [ARCE Licitaciones – Monitor IA](https://github.com/SebaViglione/ARCE-LICITACIONES-IA)
-> 🏗️ Sistema automatizado de monitoreo de licitaciones públicas de Uruguay, diseñado para resolver problemáticas reales del sector construcción (validado con datos de Grupo CPS).
-> 
-> 🔧 Utiliza n8n, Ollama (Llama 3.1 custom), PostgreSQL, Docker y OCR Tools para automatizar el ciclo completo: scraping, deduplicación, clasificación IA y notificaciones.
-> ✨ Características destacadas
-> 
-> Extracción multi-formato: PDF, ODT, DOC, DOCX
-> IA local fine-tuned (Llama 3.1 : 8b) para detección de licitaciones relevantes
-> Suite de tests automatizados con casos reales
-> Workflow n8n y deduplicación PostgreSQL en progreso
-> 💬 Proyecto técnico de aplicación real orientado a la automatización de datos públicos y análisis inteligente de información empresarial.
+### 🪟 [Cotizador de Aberturas](https://sebaviglione.com/cotizador)
+> 📐 Aplicación B2B **full-stack de punta a punta** para cotizar aberturas de aluminio y vidrio: registro de clientes, configurador con **vista 3D y precio en vivo**, carrito, generación de PDF y seguimiento de pedidos.
+>
+> 🧮 Motor de cálculo de precios propio — geometría por tipología, despiece de perfiles, vidrios y accesorios — **calibrado por ingeniería inversa sobre 2.641 recetas reales de fábrica**, reduciendo el error de material de 2,44x a ~1% respecto al sistema interno.
+>
+> 🔧 Panel interno para técnicos: recetas parametrizables (perfiles, marcos, contravidrios, vidrios y costos) con reglas de resolución y fallback, validación de límites fabricables y APIs con control de acceso por rol.
+>
+> 🛠️ **Stack:** Next.js, React, TypeScript, Supabase (PostgreSQL), Three.js, Tailwind. → [Case study completo](https://sebaviglione.com/cotizador)
 
 ---
 
-### 🎲 [Draftosaurus](https://github.com/hackency/Draftosaurus)
-> Proyecto académico grupal — desarrollo de una aplicación web para gestionar partidas del juego de mesa **Draftosaurus**.  
-> 🛠️ **Stack:** HTML, CSS, JS, PHP, MariaDB, Docker.  
-> 🧠 Participación en diseño de interfaz, documentación técnica y pruebas del sistema.  
-> 🌍 Desarrollado junto al equipo **Hackency** como parte del Proyecto Final de Bachillerato en TI (UTU ISBO).
+### 🤖 [ARCE Licitaciones – Monitor IA](https://github.com/SebaViglione/ARCE-LICITACIONES-IA)
+> 🏗️ Sistema de monitoreo y análisis automático de licitaciones públicas del Estado uruguayo (ARCE), orientado al sector de aluminio, vidrio y aberturas — surgido de una necesidad real en Grupo CPS.
+>
+> ⚙️ **Pipeline 100% local, sin costos de API cloud:** n8n consulta el feed RSS de ARCE cada 15 minutos, un scraper Puppeteer extrae el detalle de cada llamado, la relevancia se analiza con **Llama 3.1 8b con prompt especializado vía Ollama**, y todo persiste con deduplicación en PostgreSQL (en Docker Compose).
+>
+> ✨ **Características destacadas:**
+> - Extracción de texto multi-formato: PDF, DOC, DOCX, XLS y ZIP, con chunking automático para documentos grandes
+> - Detección automática de fechas de visitas técnicas, lugares y contactos
+> - Dashboard web filtrable (Express.js) para el equipo comercial
+> - Scripts de verificación de extracción probados con documentos reales
+
+---
+
+### 📦 Manejador de Stock entre Depósitos
+> 🏭 Herramienta interna desarrollada en Grupo CPS para ordenar el inventario de la empresa: stock por depósito, movimientos y transferencias entre depósitos, con trazabilidad de cada operación.
+>
+> 🔒 Proyecto interno de la empresa, sin repo público.
+
+---
+
+### 🌐 Webs con clientes reales
+> 🏗️ [Grupo CPS](https://grupocps.com.uy) ([repo](https://github.com/SebaViglione/GrupoCPS_institucional)) — sitio institucional bilingüe de una constructora: portfolio de obras dinámico, formulario de contacto, SEO e imágenes WebP optimizadas.
+>
+> 🏋️ [Force Crossfit](https://forcebox4c.com.uy) · [Open Gym](https://opengym.uy) — sitios mobile-first para gimnasios, enfocados en que la gente llegue, entienda la propuesta y se contacte.
+>
+> 🏢 [Edificio Galicia](https://edificiogalicia.com.uy) — landing inmobiliaria para un desarrollo, con camino directo a la consulta.
+
+---
+
+### 🧪 Más proyectos
+
+| Proyecto | Qué es | Stack |
+|---|---|---|
+| [payment_reconciliation_api](https://github.com/SebaViglione/payment_reconciliation_api) | 💳 Ejercicio backend de lógica financiera: concilia órdenes contra pagos y detecta faltantes, duplicados y montos que no cuadran | Node.js, TS, Prisma |
+| [threejs-planet](https://github.com/SebaViglione/threejs-planet) | 🌍 Tierra 3D interactiva: atmósfera, nubes, luces nocturnas y satélites orbitando | Three.js |
+| [draftosaurus-assistant](https://github.com/SebaViglione/draftosaurus-assistant) | 🦖 Chatbot experto en las reglas oficiales de Draftosaurus, con UX estilo ChatGPT | JS + OpenAI API |
+| Draftosaurus Web 🔒 | 🎲 Versión web jugable del juego de mesa — proyecto final de UTU ISBO con el equipo Hackency (repo privado) | PHP, MariaDB, Docker |
+| [Portafolio](https://github.com/SebaViglione/Portafolio) | ✨ Código de [sebaviglione.com](https://sebaviglione.com): animaciones con Framer Motion + GSAP, bilingüe ES/EN | Next.js, Tailwind |
 
 ---
 
 <h2 align="center">📫 Conectemos</h2>
 
-<div align="center" style="
-  background: rgba(15,15,15,0.6);
-  border: 1px solid rgba(255,255,255,0.15);
-  border-radius: 20px;
-  backdrop-filter: blur(6px);
-  padding: 20px 30px;
-  box-shadow: 0 0 12px rgba(0,0,0,0.3);
-">
-
+<p align="center">
+  <a href="https://sebaviglione.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/sebaviglione.com-0f172a?logo=googlechrome&logoColor=22d3ee&style=for-the-badge" alt="Web personal"/>
+  </a>
   <a href="mailto:sebaviglione10@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail"/>
   </a>
@@ -106,14 +127,13 @@ Actualmente estoy profundizando en el uso de <b>Docker, n8n, Ollama y PostgreSQL
   <a href="https://github.com/SebaViglione" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>
   </a>
-
-</div>
+</p>
 
 ---
 
 <p align="center">
 ✨ <b>Gracias por visitar mi perfil</b> ✨<br>
-💬 Explorá mis repositorios y descubrí cómo combino <b>automatización, IA y desarrollo web</b> en proyectos reales.
+💬 Explorá mis repositorios y descubrí cómo combino <b>automatización, IA local y desarrollo web</b> en proyectos con uso real.
 </p>
 
 ---
@@ -121,102 +141,118 @@ Actualmente estoy profundizando en el uso de <b>Docker, n8n, Ollama y PostgreSQL
 # 🌍 English Version
 
 <p align="center">
-  <img 
-    src="Assets/Saludo_ingles.gif" 
-    alt="Hi! I'm Sebastián Viglione"
-    style="
-      border-radius: 14px;
-      border: 1px solid rgba(255,255,255,0.13);
-      box-shadow: 0 4px 18px rgba(0,0,0,0.45);
-    "
-  />
+  <img src="Assets/saludo_en.gif" width="800" alt="Hi! I'm Sebastián Viglione — Developer & Systems Technician @ Grupo CPS"/>
 </p>
 
 <p align="center">
-💻 <b>Full-Stack Developer in training | Automation, Local AI and Data Processing</b><br>
-🌱 IT student at <b>UTU (Instituto Superior Brazo Oriental)</b><br>
-🚀 Passionate about building systems that connect <b>web development, automation workflows, and AI-based data analysis</b>.
+💻 <b>Developer & Systems Technician at <a href="https://grupocps.com.uy">Grupo CPS</a> | Automation · Local AI · Data · Web</b><br>
+🎓 <b>Systems Engineering</b> student at <b>Universidad de Montevideo</b><br>
+🚀 <i>"I build software that organizes your operation"</i> → <a href="https://sebaviglione.com/en">sebaviglione.com</a>
 </p>
 
 ---
 
 <h2 align="center">🧭 About Me</h2>
 
-<p align="center" style="max-width:750px; margin:auto; text-align:justify;">
-Uruguayan IT student passionate about full-stack development and process automation.  
-I enjoy combining logical problem-solving with design and real-world applications, using tools like <b>n8n, Docker, Ollama, and PostgreSQL</b> to build data-driven and intelligent systems.
+<p align="center">
+I'm a Uruguayan developer who learns by building. Since late 2024 I've been working at <b>Grupo CPS</b>, developing internal tools, automations, and websites that solve real operational problems: scraping and data processing, REST API and webhook integrations, and business workflows connected with <b>Python, JavaScript/TypeScript, and n8n</b>.
+</p>
+
+<p align="center">
+My favorite spot is where <b>automation</b> (n8n, Python), <b>local AI</b> (Ollama, models running on my own infrastructure), and <b>data</b> (PostgreSQL, ETL, web scraping) meet. In parallel, I'm studying Systems Engineering and building freelance projects for clients in Uruguay. Advanced English, C1 (Cambridge CAE).
 </p>
 
 ---
 
-<h2 align="center">🛠️ Technologies & Tools</h2>
+<h2 align="center">🛠️ Technologies &amp; Tools</h2>
 
-<div align="center" style="
-  background: rgba(15,15,15,0.6);
-  border: 1px solid rgba(255,255,255,0.15);
-  border-radius: 20px;
-  backdrop-filter: blur(6px);
-  padding: 25px 35px;
-  box-shadow: 0 0 12px rgba(0,0,0,0.3);
-">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5" style="margin: 12px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3" style="margin: 12px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" style="margin: 12px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="PostgreSQL" style="margin: 12px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="Docker" style="margin: 12px;"/>
-  <img src="./Assets/n8n_icon.png" height="60" alt="n8n" style="margin: 12px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git" style="margin: 12px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="Linux" style="margin: 12px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="VS Code" style="margin: 12px;"/>
-
-</div>
-
----
-
-<h2 align="center">📊 GitHub Activity</h2>
-
+<h3 align="center">🎨 Frontend</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SebaViglione&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,threejs,html,css" height="48" alt="JavaScript, TypeScript, React, Next.js, Tailwind CSS, Three.js, HTML, CSS"/>
+</p>
+
+<h3 align="center">⚙️ Backend &amp; Integrations</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,py,express" height="48" alt="Node.js, Python, Express"/>
+</p>
+
+<h3 align="center">🗄️ Databases</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,supabase" height="48" alt="PostgreSQL, Supabase"/>
+</p>
+
+<h3 align="center">🤖 Automation &amp; AI</h3>
+<p align="center">
+  <img src="Assets/icons/n8n.png" height="48" alt="n8n"/>&nbsp;&nbsp;<img src="Assets/icons/ollama.png" height="48" alt="Ollama"/>&nbsp;&nbsp;<img src="Assets/icons/openai.png" height="48" alt="OpenAI API"/>
+</p>
+
+<h3 align="center">🧰 Infrastructure &amp; Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,linux,bash,git,github" height="48" alt="Docker, Linux, Bash, Git, GitHub"/>
 </p>
 
 ---
 
 <h2 align="center">🌟 Featured Projects</h2>
 
-### 🤖 [ARCE Licitaciones – AI Monitor](https://github.com/SebaViglione/ARCE-LICITACIONES-IA)
-> 🏗️ Automated monitoring system for Uruguay’s public tenders (ARCE), designed to solve real-world problems in the construction sector (validated with data from Grupo CPS).
-> 
-> ⚙️ Integrates n8n, Ollama (Llama 3.1 custom), PostgreSQL, and OCR tools to automate scraping, deduplication, AI classification, and Telegram notifications.
-> ✨ Key Features
-> 
-> Multi-format extraction: PDF, ODT, DOC, DOCX
-> Local AI model fine-tuned for construction-related bidding
-> Automated test suite with real data
-> n8n workflow and PostgreSQL deduplication in progress
-> 💬 An applied technical project focused on public data automation and local AI for business intelligence.
+### 🪟 [Aluminum Joinery Quoter](https://sebaviglione.com/en/cotizador)
+> 📐 End-to-end **full-stack B2B app** for quoting aluminum and glass windows and doors: client registration, configurator with a **live 3D view and real-time pricing**, cart, PDF generation, and order tracking.
+>
+> 🧮 Custom pricing engine — typology-based geometry, breakdown of profiles, glass, and hardware — **calibrated through reverse engineering over 2,641 real factory recipes**, cutting material error from 2.44x to ~1% vs. the internal system.
+>
+> 🔧 Internal panel for technicians: parameterizable recipes (profiles, frames, glazing beads, glass, and costs) with resolution and fallback rules, manufacturability validation, and role-based API access control.
+>
+> 🛠️ **Stack:** Next.js, React, TypeScript, Supabase (PostgreSQL), Three.js, Tailwind. → [Full case study](https://sebaviglione.com/en/cotizador)
 
 ---
 
-### 🎲 [Draftosaurus](https://github.com/hackency/Draftosaurus)
-> Academic group project — web application to manage **Draftosaurus** board-game sessions.  
-> 🛠️ **Stack:** HTML, CSS, JS, PHP, MariaDB, Docker.  
-> 🧠 Contributions: UI design, documentation, and testing.  
-> 🌍 Developed as part of the final IT project at **UTU ISBO** under the **Hackency** team.
+### 🤖 [ARCE Licitaciones – AI Monitor](https://github.com/SebaViglione/ARCE-LICITACIONES-IA)
+> 🏗️ Automated monitoring and analysis system for Uruguayan public tenders (ARCE), targeting the aluminum, glass, and window industry — born from a real need at Grupo CPS.
+>
+> ⚙️ **Fully local pipeline, zero cloud API costs:** n8n polls the ARCE RSS feed every 15 minutes, a Puppeteer scraper extracts each tender's details, relevance is analyzed with **Llama 3.1 8b using a domain-specialized prompt via Ollama**, and everything persists with deduplication in PostgreSQL (on Docker Compose).
+>
+> ✨ **Key features:**
+> - Multi-format text extraction: PDF, DOC, DOCX, XLS, and ZIP, with automatic chunking for large documents
+> - Automatic detection of technical site-visit dates, locations, and contacts
+> - Filterable web dashboard (Express.js) for the sales team
+> - Text-extraction verification scripts tested with real documents
+
+---
+
+### 📦 Warehouse Stock Manager
+> 🏭 Internal tool built at Grupo CPS to keep the company's inventory in order: per-warehouse stock, movements, and transfers between warehouses, with traceability for every operation.
+>
+> 🔒 Internal company project, no public repo.
+
+---
+
+### 🌐 Websites for real clients
+> 🏗️ [Grupo CPS](https://grupocps.com.uy) ([repo](https://github.com/SebaViglione/GrupoCPS_institucional)) — bilingual corporate site for a construction company: dynamic works portfolio, contact form, SEO, and optimized WebP images.
+>
+> 🏋️ [Force Crossfit](https://forcebox4c.com.uy) · [Open Gym](https://opengym.uy) — mobile-first gym websites focused on getting people to arrive, understand the offer, and reach out.
+>
+> 🏢 [Edificio Galicia](https://edificiogalicia.com.uy) — real-estate landing page for a development, with a direct path to inquiries.
+
+---
+
+### 🧪 More projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [payment_reconciliation_api](https://github.com/SebaViglione/payment_reconciliation_api) | 💳 Backend exercise in financial logic: reconciles orders against payments, flagging missing, duplicate, and mismatched ones | Node.js, TS, Prisma |
+| [threejs-planet](https://github.com/SebaViglione/threejs-planet) | 🌍 Interactive 3D Earth: atmosphere, clouds, night lights, and orbiting satellites | Three.js |
+| [draftosaurus-assistant](https://github.com/SebaViglione/draftosaurus-assistant) | 🦖 Expert chatbot for the official Draftosaurus rules, with a ChatGPT-style UX | JS + OpenAI API |
+| Draftosaurus Web 🔒 | 🎲 Playable web version of the board game — UTU ISBO final project with team Hackency (private repo) | PHP, MariaDB, Docker |
+| [Portafolio](https://github.com/SebaViglione/Portafolio) | ✨ Source of [sebaviglione.com](https://sebaviglione.com): Framer Motion + GSAP animations, bilingual ES/EN | Next.js, Tailwind |
 
 ---
 
 <h2 align="center">📫 Let's Connect</h2>
 
-<div align="center" style="
-  background: rgba(15,15,15,0.6);
-  border: 1px solid rgba(255,255,255,0.15);
-  border-radius: 20px;
-  backdrop-filter: blur(6px);
-  padding: 20px 30px;
-  box-shadow: 0 0 12px rgba(0,0,0,0.3);
-">
-
+<p align="center">
+  <a href="https://sebaviglione.com/en" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/sebaviglione.com-0f172a?logo=googlechrome&logoColor=22d3ee&style=for-the-badge" alt="Personal website"/>
+  </a>
   <a href="mailto:sebaviglione10@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail"/>
   </a>
@@ -226,12 +262,15 @@ I enjoy combining logical problem-solving with design and real-world application
   <a href="https://github.com/SebaViglione" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>
   </a>
-
-</div>
+</p>
 
 ---
 
 <p align="center">
 ✨ <b>Thanks for visiting my profile!</b> ✨<br>
-💬 Feel free to explore my repositories and see how I blend <b>web development, automation, and AI</b> into real-world projects.
+💬 Explore my repositories to see how I blend <b>automation, local AI, and web development</b> into projects with real-world use.
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:818cf8,100:e879f9&height=110&section=footer" alt="" width="100%"/>
 </p>
